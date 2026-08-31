@@ -1,3 +1,5 @@
 Main Branch : code from main branch
 
-fuist branch : code from first branch to main
+first branch : code from first branch to main
+
+second branch : code from second branch to first
